@@ -1,0 +1,18 @@
+{
+    "name": "sg0-bot",
+    "description": "Доступ к «Сетевой Город. Образование» через ВКонтакте",
+    "license": "MIT",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": {
+        "name": "trustworthy_dev",
+        "url": "https://t.me/trustworthy_dev"
+    },
+    "dependencies": {
+        "dotenv-flow": "^3.2.0",
+        "moment": "^2.29.1",
+        "mysql": "^2.18.1",
+        "node-fetch": "^2.6.1",
+        "node-vk-bot-api": "^3.3.7"
+    }
+}
